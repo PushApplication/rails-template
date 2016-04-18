@@ -1,0 +1,3 @@
+[submodule "smacss"]
+	path = smacss
+	url = https://github.com/mehdi-farsi/smacss-archi
