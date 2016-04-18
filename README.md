@@ -32,7 +32,7 @@ Checking connectivity... done.
 Submodule path 'smacss': checked out '7a278766c40a3b220baf580c37ed8912b9b21d24'
 ```
 
-launch the installer
+Launch the installer
 
 ```shell
 ?> sh install.sh
@@ -40,4 +40,4 @@ launch the installer
 /Users/mehdi/.railsrc -> /Users/mehdi/Documents/projects/rails-templates/railsrc
 ```
 
-Now all the new project will be extended by this custom setup.
+Now all the new projects will be extended by this custom setup.
