@@ -55,6 +55,7 @@ gem_group :test do
   gem 'shoulda-matchers', '~> 3.1'
   gem 'mechanize', '2.7.4'
   gem 'rspec-its'
+  gem 'timecop'
 end
 
 run "bundle install"
