@@ -54,6 +54,7 @@ gem_group :test do
   gem 'rspec-rails', '~> 3.4', '>= 3.4.2'
   gem 'shoulda-matchers', '~> 3.1'
   gem 'mechanize', '2.7.4'
+  gem 'rspec-its'
 end
 
 run "bundle install"
